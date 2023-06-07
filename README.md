@@ -1,9 +1,9 @@
-#Singleton & Adapter pattern
+# Singleton & Adapter pattern
 Singleton & Adapter patterns on java in mobile chargers example.
 
 Using: IntelJ IDEA Community Edition
 
-##Task
+## Task
 1) Write a Config singleton class that will read some configuration during creation
 information from the file and will have getter methods for parameters. For example, reading value from config.data.
 
