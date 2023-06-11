@@ -1,6 +1,6 @@
-package ge.tsu.utils;
+package ge.nick.utils;
 
-/*
+/**
  * Singleton config class. Configurations of chargers reading from specific .conf file.
  * File has created only for visualization. Now it include only voltage of charger.
  */

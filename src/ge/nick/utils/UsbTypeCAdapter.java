@@ -1,6 +1,6 @@
-package ge.tsu.utils;
+package ge.nick.utils;
 
-/*
+/**
 * Adapter class that convert (transform) voltage of power.
 * Logic: transform voltage of one charger to another one.
 * Extends class that that must be converted.

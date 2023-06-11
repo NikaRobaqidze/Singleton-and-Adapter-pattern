@@ -1,6 +1,6 @@
-package ge.tsu.utils;
+package ge.nick.utils;
 
-/*
+/**
  * Class imitate mobile USB type B charger.
  * Example class for scenarios to show pattern work.
  */

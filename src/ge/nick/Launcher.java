@@ -1,19 +1,19 @@
-/*
- * Author: Nika Robaqidze
- * Email: nika42568@gmail.com
+/**
+ * @Author: Nika Robaqidze
+ * @Email: nika42568@gmail.com
 
- * Scenarios:
+ * Scenario:
  * User have two mobile chargers: USB type C and USB type B.
  * Each charger have different voltage on output.
  * User need adapter for USB type C to convert (transform)
  * voltage of USB type B.
  */
 
-package ge.tsu;
+package ge.nick;
 
-import ge.tsu.utils.UsbTypeB;
-import ge.tsu.utils.UsbTypeC;
-import ge.tsu.utils.UsbTypeCAdapter;
+import ge.nick.utils.UsbTypeB;
+import ge.nick.utils.UsbTypeC;
+import ge.nick.utils.UsbTypeCAdapter;
 
 public class Launcher {
     public static void main(String[] args) {
